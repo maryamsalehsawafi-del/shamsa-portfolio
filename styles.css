@@ -1,0 +1,33 @@
+.portfolio {
+  background-color: #f5f5f5;
+  font-family: 'Arial', sans-serif;
+  color: #333;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Georgia', serif;
+  margin: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
